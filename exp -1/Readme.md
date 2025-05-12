@@ -47,7 +47,7 @@ your_project/
    ```
 
 ### 🐳 Using Docker
-
+## REMEMBER TO KEEP DOCKER OPEN AND RUN COMMANDS ON VS
 1. **Build the Docker image**
    ```bash
    docker build -t flask-register-app .
